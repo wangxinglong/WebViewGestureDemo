@@ -1,0 +1,2 @@
+# WebViewGestureDemo
+手势检测WebView控制TextView的状态
